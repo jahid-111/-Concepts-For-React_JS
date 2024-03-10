@@ -106,5 +106,3 @@ const keyValue = Object.values(person);
                             //     { name: 'Watch', price: 689, brand: 'Samsung', color: 'green' },
                             //     { name: 'PC', price: 3870, brand: 'Google', color: null }
                             // ]
-
-
